@@ -1,0 +1,1 @@
+delete from processing_record;
